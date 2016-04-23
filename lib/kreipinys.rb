@@ -9,7 +9,7 @@ class Kreipinys
     'as' => 'ai',
     'AS' => 'AI',
     'ė'  => 'e',
-    'Ė'  => 'Ė',
+    'Ė'  => 'E',
     'is' => 'i',
     'IS' => 'I',
     'us' => 'au',
